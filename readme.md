@@ -4,7 +4,7 @@ by deniusgg
 
 unjailer is an all-in-one mediatek xiaomi bootloader unlocker, flasher, and local data recovery toolkit. no mi unlock tool, no xiaomi community quotas, no 168-hour wait timers—just straight hardware-level brom unlocking with automatic imei/nvram backups and a full post-unlock flashing suite.
 
-platform support: available for both linux (`unjailer.sh` / `unjailer.py`) and windows (`unjailer.py` / `windows_unjailer.py`).
+platform support: available for both linux (`unjailer.sh` / `unjailer.py`) and windows (`unjailer.py`).
 
 ## disclaimer
 
